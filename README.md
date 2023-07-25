@@ -1,6 +1,6 @@
 # Projeto de cadastro de usuários
 
-<h1> linkando repositório (front-end) ao projeto userRegistration (back-end), temos uma platafroma de cadastro de usuários</h1>
+<h1> Conectando esse repositório (front-end) ao projeto userRegistration (back-end), temos uma platafroma de cadastro de usuários</h1>
 
 <img src="https://github.com/Joaoferreiras/realfirstprojectreact/blob/master/src/assets/Captura%20de%20Tela%20(18).png" alt="example image" >
 <img src ="https://github.com/Joaoferreiras/realfirstprojectreact/blob/master/src/assets/Captura%20de%20Tela%20(20).png" alt= "example image" >
