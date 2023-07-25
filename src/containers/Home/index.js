@@ -23,7 +23,7 @@ const App = () => {
   const addNewUser = async () => {
      const { data: newUser } = await axios.post("http://localhost:3001/users", {
      name: inputName.current.value,
-     order: inputAge.current.value,
+     age: inputAge.current.value,
      });
 
     setUsers([...users, newUser]);
